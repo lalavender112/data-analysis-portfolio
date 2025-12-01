@@ -38,7 +38,6 @@ My contributions:
 
 Links:
 - My commits: https://github.com/DylanWhitmire/Data110-Final-Project/commits?author=lalavender112
-- My pull requests: https://github.com/DylanWhitmire/Data110-Final-Project/pulls?q=is%3Apr+author%3Alalavender112
 
 ---
 
